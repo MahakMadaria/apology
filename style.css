@@ -1,0 +1,79 @@
+body{
+    background-color: #ffe7e3;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+.container{
+   height: 100vh;
+   weight:200vw;
+   text-align: center;
+   padding:3%;
+   color:#f78f7d;
+   font-family:"Brush Script MT", cursive;
+   font-size:180%;
+}
+h2{
+    margin-top:0.5%;
+    font-size: 6.3vh;
+    color:#8c3479;
+}
+.container span{
+    color:#8c3479;
+    font-family:"Brush Script MT", cursive;
+    font-size: 5.095vh;
+}
+.about{
+   font-style: bold;
+   color:#ee6850;
+   font-family:Copperplate, Papyrus, fantasy;
+   font-size:3.4vh;
+   margin-left: 2.7%;
+   margin-right: 2.7%;
+}
+p{
+    font-weight:600;
+    letter-spacing: 0.0625em;
+    
+}
+.button{
+    margin-top: 4.237vh;
+    font-size: 5.095vh;
+}
+#home{
+    padding:0.823vh 0.927vh;
+    margin:0.0927vh 3.294vh;
+    text-decoration: none;
+    border-radius: 15%;
+    background-color: #fccdc5;
+    color:#8c3479;
+    border: 0.494vh solid #fcc2b8;
+    border-radius: 0.926vh;
+}
+
+#no{
+    padding:0.823vh 0.926vh;
+    margin:0.926vh 1.852vh;
+    text-decoration: none;
+    border-radius:15%;
+    background-color: #fccdc5;
+    color:#8c3479;
+    border: 0.494vh solid #fcc2b8;
+    border-radius:0.926vh;
+    font-size:4.095vh;
+}
+#yes{
+    padding:0.823vh 0.926vh;
+    margin:0.926vh 1.852vh;
+    text-decoration: none;
+    border-radius:15%;
+    background-color: #fccdc5;
+    color:#8c3479;
+    border: 0.494vh solid #fcc2b8;
+    border-radius:0.926vh;
+    font-size: 4.095vh;
+}
+a:hover{
+    background-color: #f78f7d;
+}
